@@ -1,3 +1,12 @@
-body {
-    background-color: blue;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    background-color: #133113;
+    color: white;
+    padding: 1rem;
+}
+
